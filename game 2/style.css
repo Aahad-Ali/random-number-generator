@@ -1,0 +1,38 @@
+.container {
+    /* background-color: aliceblue; */
+    margin-top: 200px;
+    border: 1px dashed rgb(187, 57, 57);
+    padding-bottom: 30px;
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+      
+}
+
+.container span {
+    font-size: 100px;
+    color: red;
+}
+
+.container h1 {
+    font-size: 60px;
+    color: white;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif monospace;
+}
+
+body {
+    background-color: black;
+    /* align-items: center; */
+    /* justify-content: center; */
+}
+
+.container button {
+    border: none;
+    border-radius: 20px;
+    font-size: 30px;
+}
+
+button:hover {
+    color: blue;
+}
